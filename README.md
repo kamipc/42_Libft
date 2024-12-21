@@ -57,22 +57,15 @@ typedef struct s_list {
 
 The functions to implement are:
 
-    ft_lstnew
+• ft_lstnew 
+• ft_lstadd_front 
+• ft_lstsize 
+• ft_lstlast 
+• ft_lstadd_back 
+• ft_lstdelone 
+• ft_lstclear 
+• ft_lstiter 
+• ft_lstmap
 
-    ft_lstadd_front
-
-    ft_lstsize
-
-    ft_lstlast
-
-    ft_lstadd_back
-
-    ft_lstdelone
-
-    ft_lstclear
-
-    ft_lstiter
-
-    ft_lstmap
-
+Final Grade
 ![image](https://github.com/user-attachments/assets/c0d23ba5-7a1a-4415-ac77-e10ae47253b0)
