@@ -67,6 +67,6 @@ The functions to implement are:
 • `ft_lstiter`
 • `ft_lstmap`
 
-###Final Grade
+### Final Grade
 
 ![image](https://github.com/user-attachments/assets/c0d23ba5-7a1a-4415-ac77-e10ae47253b0)
