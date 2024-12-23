@@ -50,7 +50,8 @@ The following ones have to behave exactly as their known counterpart:
 
 Implement functions to handle linked lists. The list will have the following structure, which should be added to the .h file:
 
-```c typedef struct s_list {
+```c
+typedef struct s_list {
     void *content;
     struct s_list *next;
 } t_list;
