@@ -8,8 +8,8 @@ Create my own library (`libft`) that includes my own implementation of multiple 
 use in future projects.
 The following ones have to behave exactly as their known counterpart:
 
-• `isalpha`
-• `isdigit`
+- `isalpha`
+- `isdigit`
 • `isalnum`
 • `isascii`
 • `isprint`
