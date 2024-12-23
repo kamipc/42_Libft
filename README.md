@@ -10,41 +10,41 @@ The following ones have to behave exactly as their known counterpart:
 
 - `isalpha`
 - `isdigit`
-• `isalnum`
-• `isascii`
-• `isprint`
-• `strlen`
-• `memset`
-• `bzero`
-• `memcpy`
-• `memmove`
-• `strlcpy`
-• `strlcat`
-• `toupper`
-• `tolower`
-• `strchr`
-• `strrchr`
-• `strncmp`
-• `memchr`
-• `memcmp`
-• `strnstr`
-• `atoi`
-• `calloc`
-• `strdup`
+- `isalnum`
+- `isascii`
+- `isprint`
+- `strlen`
+- `memset`
+- `bzero`
+- `memcpy`
+- `memmove`
+- `strlcpy`
+- `strlcat`
+- `toupper`
+- `tolower`
+- `strchr`
+- `strrchr`
+- `strncmp`
+- `memchr`
+- `memcmp`
+- `strnstr`
+- `atoi`
+- `calloc`
+- `strdup`
 
 #### Additional functions:
 
-• `ft_substr`
-• `ft_strjoin`
-• `ft_strtrim`
-• `ft_split`
-• `ft_itoa`
-• `ft_ismapi`
-• `ft_striteri`
-• `ft_putchar_fd`
-• `ft_putstr_fd`
-• `ft_putendl_fd`
-• `ft_putnbr_fd`
+- `ft_substr`
+- `ft_strjoin`
+- `ft_strtrim`
+- `ft_split`
+- `ft_itoa`
+- `ft_ismapi`
+- `ft_striteri`
+- `ft_putchar_fd`
+- `ft_putstr_fd`
+- `ft_putendl_fd`
+- `ft_putnbr_fd`
 
 ### Bonus Objective
 
@@ -58,15 +58,15 @@ typedef struct s_list {
 ```
 The functions to implement are:
 
-• `ft_lstnew`
-• `ft_lstadd_front`
-• `ft_lstsize`
-• `ft_lstlast`
-• `ft_lstadd_back`
-• `ft_lstdelone`
-• `ft_lstclear`
-• `ft_lstiter`
-• `ft_lstmap`
+- `ft_lstnew`
+- `ft_lstadd_front`
+- `ft_lstsize`
+- `ft_lstlast`
+- `ft_lstadd_back`
+- `ft_lstdelone`
+- `ft_lstclear`
+- `ft_lstiter`
+- `ft_lstmap`
 
 ### Final Grade
 
