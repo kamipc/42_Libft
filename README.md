@@ -1,8 +1,8 @@
-#Project Libft
+# Project Libft
 
-##Module 0 of 42 Common Core
+## Module 0 of 42 Common Core
 
-###Mandatory objective: 
+### Mandatory objective: 
 Achievement
 Create my own library (`libft`) that includes my own implementation of multiple functions that will then be available to 
 use in future projects.
@@ -32,7 +32,7 @@ The following ones have to behave exactly as their known counterpart:
 • `calloc`
 • `strdup`
 
-####Additional functions:
+#### Additional functions:
 
 • `ft_substr`
 • `ft_strjoin`
@@ -46,7 +46,7 @@ The following ones have to behave exactly as their known counterpart:
 • `ft_putendl_fd`
 • `ft_putnbr_fd`
 
-###Bonus Objective
+### Bonus Objective
 
 Implement functions to handle linked lists. The list will have the following structure, which should be added to the .h file:
 
@@ -67,5 +67,6 @@ The functions to implement are:
 • `ft_lstiter`
 • `ft_lstmap`
 
-Final Grade
+###Final Grade
+
 ![image](https://github.com/user-attachments/assets/c0d23ba5-7a1a-4415-ac77-e10ae47253b0)
